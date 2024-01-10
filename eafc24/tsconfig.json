@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {},
+  "extends": "expo/tsconfig.base"
+}
+/*
+const firebaseConfig = {
+  apiKey: "AIzaSyArWdRddRekmeJpUy0vRWg13Xt8fSMgfaw",
+  authDomain: "eafc24-16929.firebaseapp.com",
+  databaseURL: "https://eafc24-16929-default-rtdb.firebaseio.com",
+  projectId: "eafc24-16929",
+  storageBucket: "eafc24-16929.appspot.com",
+  messagingSenderId: "95649009348",
+  appId: "1:95649009348:web:d77af1ea3e41dce116c391",
+  measurementId: "G-GTS3D4DQT1"
+};
+*/
